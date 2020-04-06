@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092387767547",
+    "firebase_url": "https://diawalidenganbismillah-8dea9.firebaseio.com/",
+    "project_id": "diawalidenganbismillah-8dea9",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092387767547:android:32cb0ab341b1b599fb1c5e",
+        "android_client_info": {
+          "package_name": "com.example.penilaian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092387767547-qe28i9l8sump06ctc6savdjfmpf24qjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.penilaian",
+            "certificate_hash": "3032adc2efe16df6f938ffb60c8c586d615eb6ad"
+          }
+        },
+        {
+          "client_id": "1092387767547-app0sg5ft066634okesenol8p494qrtk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCd0yjxqhAtK5ENAbqVvPAbYmlO0MwKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092387767547-app0sg5ft066634okesenol8p494qrtk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
